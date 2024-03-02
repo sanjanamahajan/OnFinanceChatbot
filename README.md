@@ -53,3 +53,6 @@ kubectl get services
 NAME         TYPE           CLUSTER-IP       EXTERNAL-IP      PORT(S)        AGE
 chatbot      LoadBalancer   34.118.226.193   34.138.121.239   80:30992/TCP   19h
 kubernetes   ClusterIP      34.118.224.1     <none>           443/TCP        20h
+
+### Databse details
+OnFinance_Formated_database.csv is fined tuned and mined as per the requirements for getting well currated answers from chat-GPT model
